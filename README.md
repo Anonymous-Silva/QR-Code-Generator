@@ -28,24 +28,19 @@ With this script, you can generate QR Codes for:
 
 ## 📥 Installation
 
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/Anonymous-SIlva/qr-code-generator.git
-cd qr-code-generator
-```
-
-2. **Install the required packages:**
+1. **Install the required packages:**
 
 🚀 **How to Use**
+
 Run the script:
 ```bash
-python qr_generator.py
+qr_generator.exe
 ```
+
 Then, enter the content you want to convert into a QR Code.
 The script will generate a .png image with your QR Code.
 
-```You can customize the script to change the colors, size, and margin of the QR Code for a more stylish look.```
+```If you want customize the script to change the colors, size, and margin of the QR Code for a more stylish look, send me msg```
 
 📄 **License**
 This project is licensed under the MIT License.
